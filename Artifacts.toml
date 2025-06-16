@@ -1,0 +1,256 @@
+[[libsparseir]]
+arch = "aarch64"
+git-tree-sha1 = "6cb47de950e932fdcd946676b996a0924d4c4c8e"
+os = "macos"
+
+    [[libsparseir.download]]
+    sha256 = "420b63a4f7e9e3838f041918cdb5fed1cf7007f144fcf68490a5c507a82e9f07"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.aarch64-apple-darwin.tar.gz"
+[[libsparseir]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3ed2bee8220e3f6afb10ed954a443ca763f2f665"
+libc = "glibc"
+os = "linux"
+
+    [[libsparseir.download]]
+    sha256 = "0b01b8c65cf9d095b9727cf95cbf05aa30b9d519836a7741e41cfbddd14d4647"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[libsparseir]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b7f824155676ff0315292e7b1a53413dd1053db4"
+libc = "glibc"
+os = "linux"
+
+    [[libsparseir.download]]
+    sha256 = "054d2d8f1955216ffbfc1808d820343468598a56502145c547536512c53f6ebd"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[libsparseir]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "39ae69aa66a362a6438ad8ea96e7cd5ca27a588b"
+libc = "musl"
+os = "linux"
+
+    [[libsparseir.download]]
+    sha256 = "dc9dd7306ad78f3058ef2fb6bf047b56b1f55e843191df9ed3c6fd94b4964d4e"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.aarch64-linux-musl-cxx03.tar.gz"
+[[libsparseir]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "37249b75dafa42ad2658ab4c731ee9d6e433e2be"
+libc = "musl"
+os = "linux"
+
+    [[libsparseir.download]]
+    sha256 = "dc0ed9d248fa44f19385214d4800b757bef68e6c312f6e1d7637774efd828e0c"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.aarch64-linux-musl-cxx11.tar.gz"
+[[libsparseir]]
+arch = "aarch64"
+git-tree-sha1 = "da4607d478d71d81e778f2918ab4ff1ffcb729cd"
+os = "freebsd"
+
+    [[libsparseir.download]]
+    sha256 = "ce0a8eb9dbcbcf9203228f32e0d34c3279d992f08f8bf1fc6c6e663128ed1932"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.aarch64-unknown-freebsd.tar.gz"
+[[libsparseir]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2df9b5371fbcea71d504d31e28254c0e5971bb23"
+libc = "glibc"
+os = "linux"
+
+    [[libsparseir.download]]
+    sha256 = "75fe0f9662ee5eb3c80924715a5cb22fcac5bad60703d333d9be6ad5fd78fa96"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[libsparseir]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "970b5ea456caa828038e47601c1746ee88a6e9cc"
+libc = "glibc"
+os = "linux"
+
+    [[libsparseir.download]]
+    sha256 = "67112a375f4b141fffcb3199183a17980558619c3126f8753ebc8c01b1f6b67f"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[libsparseir]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "895188fe6a99279a23d5165cbb7b47d0015a46ea"
+libc = "musl"
+os = "linux"
+
+    [[libsparseir.download]]
+    sha256 = "12f39def3c76556d77ff06868e14792878738219afa00b850b6dbe23d1beaef7"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[libsparseir]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "298928b94655a8de0c0682c55035e037f49ff575"
+libc = "musl"
+os = "linux"
+
+    [[libsparseir.download]]
+    sha256 = "6fdc54058cae1e4142f25004348715343bf78294f4bd24711d7288631d39446e"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[libsparseir]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2689974833774bacffd485e7622f878633e42b79"
+libc = "glibc"
+os = "linux"
+
+    [[libsparseir.download]]
+    sha256 = "725afae04b07342cdb24eb27bec759c88378325de9b6945832e5c98674d1f59e"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[libsparseir]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b640e4914ea3f245c76aac8abc38aeb081e76ef5"
+libc = "glibc"
+os = "linux"
+
+    [[libsparseir.download]]
+    sha256 = "3f6c23aa695f85a375e8c1962cacdc0d6b0da1680586b1f8320cfb729b787a34"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[libsparseir]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "05c2b9405a3acd66580bfe901f77961f98fff83a"
+libc = "musl"
+os = "linux"
+
+    [[libsparseir.download]]
+    sha256 = "eefcc7701d819a4210c4213a7599c23e5927f602d7342ee76f1df3ebe128252f"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[libsparseir]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "71cf39ce01ec903e8f61baf2b277f43bf41b657d"
+libc = "musl"
+os = "linux"
+
+    [[libsparseir.download]]
+    sha256 = "c6c0a8d84fb0a44d4e9b5f1082bf4de4619f676b63ad9aa747495e6ee14d81e9"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[libsparseir]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b9e168dcf8c0ea1cc3e9ae42d3da83628c8ccef4"
+libc = "glibc"
+os = "linux"
+
+    [[libsparseir.download]]
+    sha256 = "789021db4ffd6259393f70fb8851587d70f1ec34aa95c341568844a9ab0cda35"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.i686-linux-gnu-cxx03.tar.gz"
+[[libsparseir]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4c706105de6c9be081dc9298ad601e6fb2549eee"
+libc = "glibc"
+os = "linux"
+
+    [[libsparseir.download]]
+    sha256 = "b61e3bc509cb8f463fb6026af15ae26d74e62252f6b0cdafb335b5df5ac23a52"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.i686-linux-gnu-cxx11.tar.gz"
+[[libsparseir]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "69b4790b2dfeb2078ef44cecd3ec2918f32c4b68"
+os = "windows"
+
+    [[libsparseir.download]]
+    sha256 = "e6ce6c6dac4ceed45c42c4e373d444efc61e3ae29378a455e14621ded720208d"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.i686-w64-mingw32-cxx03.tar.gz"
+[[libsparseir]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3309ad9fc9ff238070dcfad22d137c0ce922d41e"
+os = "windows"
+
+    [[libsparseir.download]]
+    sha256 = "4249f73d5e725407ce45993cf873d3c85264eddc5c23a99501631dc22d37dc36"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.i686-w64-mingw32-cxx11.tar.gz"
+[[libsparseir]]
+arch = "x86_64"
+git-tree-sha1 = "21b93f6f8f86cd1321f778317763b96d489a8abe"
+os = "macos"
+
+    [[libsparseir.download]]
+    sha256 = "36de40c09115f89a0fc02f9fad3e8dca09c50c0012e345f29ea72ed8cea44e0a"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.x86_64-apple-darwin.tar.gz"
+[[libsparseir]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "25d4df4be6e3d21bf1996e1ee7dbe8f1bc92789d"
+libc = "glibc"
+os = "linux"
+
+    [[libsparseir.download]]
+    sha256 = "fd308a5bde43b73a959dae03e6435e0c852cdaca9917acfcd3876aabf5d52baf"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[libsparseir]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8942e95823bbe8272e4eec3600bf692f979908f2"
+libc = "glibc"
+os = "linux"
+
+    [[libsparseir.download]]
+    sha256 = "a1ad64f14ebc09c26b0859e35ab502fe94cc39169ed3d134510fe0a9f1b3805d"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[libsparseir]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b18f4382437b4bff06365bc81f5e78317b98f35a"
+libc = "musl"
+os = "linux"
+
+    [[libsparseir.download]]
+    sha256 = "5f80c2c0a3e6063a3fa76419b6d3197e2d10ff6d5cfdd9f0bf4535652ee6f283"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.x86_64-linux-musl-cxx03.tar.gz"
+[[libsparseir]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "698a8a1174b210b3aa4b7e07c280110e6dd76373"
+libc = "musl"
+os = "linux"
+
+    [[libsparseir.download]]
+    sha256 = "939f5547736acc9b619dd4e76bcc9291ba1bebe963a4deacff0fb3fa677fb860"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.x86_64-linux-musl-cxx11.tar.gz"
+[[libsparseir]]
+arch = "x86_64"
+git-tree-sha1 = "885029ab571719ecf3b63d497acdbee1ef4958dc"
+os = "freebsd"
+
+    [[libsparseir.download]]
+    sha256 = "0be40719f3412979174364523d266e286e8689579f670b48bf8737c05e4d9575"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.x86_64-unknown-freebsd.tar.gz"
+[[libsparseir]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "619a04c44c88a4d63889da8612702e382d87d457"
+os = "windows"
+
+    [[libsparseir.download]]
+    sha256 = "3d4c23b87c5d7bc227b302a9734b11a1e34adf7200e682f25dc47d181f524347"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[libsparseir]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0c87fe48fdbb6c37c2fcfd53c996ae7e83a58976"
+os = "windows"
+
+    [[libsparseir.download]]
+    sha256 = "15629fcb668fdeb09468e45403433a67f7971c015d19b128f883b8a88cbfcb43"
+    url = "https://github.com/terasakisatoshi/LibSparseIR_jll.jl/releases/download/libsparseir-v0.3.2+0/libsparseir.v0.3.2.x86_64-w64-mingw32-cxx11.tar.gz"
