@@ -1,6 +1,6 @@
 name = "libsparseir_jll"
 uuid = "e5bf0e3f-5e75-5bb8-9f3f-2c07620468a3"
-version = "0.3.2+0"
+version = "0.4.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
