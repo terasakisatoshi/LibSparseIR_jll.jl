@@ -2,10 +2,11 @@
 export libsparseir
 
 using CompilerSupportLibraries_jll
+using libblastrampoline_jll
 JLLWrappers.@generate_wrapper_header("libsparseir")
 JLLWrappers.@declare_library_product(libsparseir, "libsparseir.dll")
 function __init__()
-    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll)
+    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, libblastrampoline_jll)
     JLLWrappers.@init_library_product(
         libsparseir,
         "bin\\libsparseir.dll",
